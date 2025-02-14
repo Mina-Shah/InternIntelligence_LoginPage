@@ -50,7 +50,7 @@ const Login = () => {
             <label className="text-sm">
               <input type="checkbox" className="mr-2" /> Remember Me
             </label>
-            <a href="/forgot-password" className="text-blue-500 text-sm">Forgot Password?</a>
+            <a href="" className="text-blue-500 text-sm">Forgot Password?</a>
           </div>
           <button
             type="submit"
